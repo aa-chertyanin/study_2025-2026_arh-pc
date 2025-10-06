@@ -2,7 +2,6 @@
 ## Author
 author:
   name: Чернятин Артём Андреевич
-  degrees: DSc
   email: 1132246223@pfur.ru
   affiliation:
     - name: Российский университет дружбы народов
